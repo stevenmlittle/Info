@@ -1,0 +1,10 @@
+name: VitalsInfo
+author: stevenmlittle
+version: 1.0.0
+main: steven.vitals2.Main
+description: All chat modifications.
+
+commands:
+ HUD:
+  usage: /<command>
+  description: toggle sidebar
